@@ -6,7 +6,7 @@ window.YL = {
     author: 'Mofei',
     contactInformation: '121306@qq.com',
     officialWebsite: 'web.mofei.wang',
-    copyrightDetail: 'Mofei已授权本产品使用。Mofei禁止任何未经作者授权的使用、修改、二次发布，包括从本产品中剥离YLUI独立使用等侵权行为，违者将追究法律责任。',
+    copyrightDetail: 'Mofei已授权本产品使用。Mofei禁止任何未经作者授权的使用、修改、二次发布，包括从本产品中剥离Mofei独立使用等侵权行为，违者将追究法律责任。',
     otherStatements: '',
   },
   data: {},

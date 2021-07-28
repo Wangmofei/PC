@@ -420,7 +420,7 @@ YL.render = function (data) {
         //   });
         // }
 
-        this.ready = true;
+        //this.ready = true;
       },
       setWithID: function (obj, val, prefix, ran) {
         //设置对象属性，返回合法id
