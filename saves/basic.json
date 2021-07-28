@@ -85,7 +85,7 @@
       "autoRun": 0,
       "background": false,
       "badge": 0,
-      "desc": "系统设置面板",
+      "desc": "YLUI系统设置面板",
       "icon": {
         "type": "fa",
         "bg": "#436fde",
@@ -134,7 +134,7 @@
         "autoOffset": false
       },
       "version": "1.0.0",
-      "poweredBy": "Mofei",
+      "poweredBy": "Yuri2",
       "resizable": false,
       "single": true,
       "size": {
@@ -167,7 +167,7 @@
         "y": "y*0.1"
       },
       "version": "1.0.0",
-      "poweredBy": "Mofei",
+      "poweredBy": "Yuri2",
       "resizable": true,
       "single": false,
       "size": {
@@ -200,7 +200,7 @@
         "y": "y*0.1"
       },
       "version": "1.0.0",
-      "poweredBy": "Mofei",
+      "poweredBy": "Yuri2",
       "resizable": true,
       "single": true,
       "size": {
@@ -217,7 +217,7 @@
       "autoRun": 0,
       "background": false,
       "badge": 0,
-      "desc": "Mofei官方网站",
+      "desc": "YLUI官方网站",
       "icon": {
         "type": "fa",
         "content": "yoast",
@@ -233,14 +233,14 @@
         "y": "y*0.1"
       },
       "version": "1.0.0",
-      "poweredBy": "Mofei",
+      "poweredBy": "Yuri2",
       "resizable": true,
       "single": true,
       "size": {
         "height": "y*0.8-80",
         "width": "x*0.8"
       },
-      "title": "Mofei 官网",
+      "title": "YLUI 官网",
       "url": "https://ylui.yuri2.cn",
       "customTile": "",
       "urlRandomToken": true
@@ -250,7 +250,7 @@
       "autoRun": 1,
       "background": false,
       "badge": 0,
-      "desc": "Mofei官方后台服务",
+      "desc": "YLUI官方后台服务",
       "icon": {
         "type": "fa",
         "content": "yoast",
@@ -266,14 +266,14 @@
         "y": "4"
       },
       "version": "1.0.0",
-      "poweredBy": "Mofei",
+      "poweredBy": "Yuri2",
       "resizable": true,
       "single": true,
       "size": {
         "height": "80",
         "width": "160"
       },
-      "title": "Mofei官方后台服务",
+      "title": "YLUI官方后台服务",
       "url": "https://server.ylui.yuri2.cn",
       "customTile": "",
       "urlRandomToken": true
@@ -283,7 +283,7 @@
       "autoRun": 0,
       "background": false,
       "badge": 0,
-      "desc": "Mofei官方在线文档",
+      "desc": "YLUI官方在线文档",
       "icon": {
         "type": "fa",
         "content": "book",
@@ -299,7 +299,7 @@
         "y": "y*0.05"
       },
       "version": "1.0.0",
-      "poweredBy": "Mofei",
+      "poweredBy": "Yuri2",
       "resizable": false,
       "single": false,
       "size": {
@@ -459,7 +459,7 @@
     },
     {
       "app": "yl-app-home",
-      "title": "Mofei 官网",
+      "title": "YLUI 官网",
       "params": {},
       "hash": ""
     },
@@ -530,7 +530,7 @@
           "w": 6,
           "h": 4,
           "app": "yl-app-home",
-          "title": "Mofei 官网",
+          "title": "YLUI 官网",
           "i": "147",
           "params": {},
           "hash": ""
@@ -573,7 +573,7 @@
       },
       "itemPushed-89": {
         "app": "yl-app-home",
-        "title": "Mofei 官网",
+        "title": "YLUI 官网",
         "params": {},
         "hash": ""
       },
